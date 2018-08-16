@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.lgy.demo.entity.Sql_msg",
+      "name": "server",
+      "type": "com.lgy.demo.entity.Sql_msg"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.lgy.demo.entity.Sql_msg",
+      "name": "server.port",
+      "type": "java.lang.String"
+    }
+  ]
+}
