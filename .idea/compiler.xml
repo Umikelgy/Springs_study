@@ -9,7 +9,9 @@
         <module name="JavaChara" />
         <module name="Mybatis" />
         <module name="Mybatis_generator" />
+        <module name="spring_eureka_client" />
         <module name="SpringBoot" />
+        <module name="SpringCloud" />
         <module name="WebMaven_N" />
       </profile>
     </annotationProcessing>

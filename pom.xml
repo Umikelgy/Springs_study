@@ -20,6 +20,8 @@
         <module>SpringBoot</module>
         <module>Mybatis_generator</module>
         <module>Mybatis</module>
+        <module>SpringCloud</module>
+        <module>spring_eureka_client</module>
     </modules>
 <dependencies>
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->

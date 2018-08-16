@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="417ae2ec-31f8-4326-8624-cc81caba4a14" name="Default Changelist" comment="" />
+    <list default="true" id="417ae2ec-31f8-4326-8624-cc81caba4a14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud/SpringCloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud/src/main/java/mybac/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_eureka_client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_eureka_client/spring_eureka_client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_eureka_client/src/main/java/application/ServiceHiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_eureka_client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Data_Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/ImInClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/InClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Java_One$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Java_One$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Java_One$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Java_One$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Java_One.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Lambda_Collect$Adult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Lambda_Collect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Nashorn_JS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChara/target/classes/one/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/WebMaven_N/target/" />
@@ -9,6 +36,8 @@
     <ignored path="$PROJECT_DIR$/SpringBoot/target/" />
     <ignored path="$PROJECT_DIR$/Mybatis_generator/target/" />
     <ignored path="$PROJECT_DIR$/Mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloud/target/" />
+    <ignored path="$PROJECT_DIR$/spring_eureka_client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +98,9 @@
     <session id="1185654627">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -81,61 +110,62 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
+          <entry key="class" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="68" />
+          <entry key="java" value="75" />
           <entry key="kt" value="1" />
           <entry key="pom" value="3" />
           <entry key="properties" value="4" />
           <entry key="sql" value="3" />
           <entry key="t_user" value="3" />
           <entry key="tld" value="1" />
-          <entry key="xml" value="33" />
+          <entry key="xml" value="41" />
           <entry key="yaml" value="5" />
-          <entry key="yml" value="2" />
+          <entry key="yml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
+          <entry key="CLASS" value="2" />
           <entry key="Database Element" value="3" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="68" />
+          <entry key="JAVA" value="75" />
           <entry key="Kotlin" value="1" />
           <entry key="Properties" value="4" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="2" />
-          <entry key="XML" value="37" />
-          <entry key="YAML" value="7" />
+          <entry key="XML" value="45" />
+          <entry key="YAML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cell" value="59" />
           <entry key="ft" value="33" />
-          <entry key="java" value="6129" />
+          <entry key="java" value="6354" />
           <entry key="properties" value="123" />
           <entry key="sql" value="18" />
           <entry key="txt" value="21" />
-          <entry key="xml" value="576" />
+          <entry key="xml" value="604" />
           <entry key="yaml" value="98" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6129" />
+          <entry key="JAVA" value="6354" />
           <entry key="PLAIN_TEXT" value="21" />
           <entry key="Properties" value="123" />
           <entry key="SQL" value="21" />
           <entry key="Scratch" value="59" />
           <entry key="VTL" value="33" />
-          <entry key="XML" value="573" />
-          <entry key="YAML" value="98" />
+          <entry key="XML" value="601" />
+          <entry key="YAML" value="99" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages">
@@ -147,11 +177,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mybatis/pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringCloud/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            <state relative-caret-position="368">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_eureka_client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_eureka_client/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_eureka_client/src/main/java/application/ServiceHiApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,77 +223,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringBoot/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/DemoApplicatoin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/msg/MybatisFirst.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/useMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/po/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="805">
-              <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/SqlMapConfig.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1058">
-              <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaChara/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            <state relative-caret-position="299">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -261,12 +256,12 @@
       <find>mysql-connector-java</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WebMaven_N/src/main/java/Main_Conn.java" />
-        <option value="$PROJECT_DIR$/WebMaven_N/pom.xml" />
-        <option value="$PROJECT_DIR$/JavaChara/src/main/java/Java_One.java" />
         <option value="$PROJECT_DIR$/JavaChara/src/main/java/one/test_T.java" />
         <option value="$PROJECT_DIR$/JavaChara/src/main/java/one/Impl_T.java" />
         <option value="$PROJECT_DIR$/JavaChara/src/main/java/one/ImInClass.java" />
@@ -293,7 +288,6 @@
         <option value="$PROJECT_DIR$/SpringBoot/src/main/resources/application.yaml" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/entity/M_User.java" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/service/UserService.java" />
-        <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/service/impl/UserServerImpl.java" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/dao/TuserMapper.java" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/resources/mapper/TuserMapper.xml" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/entity/Tuser.java" />
@@ -304,12 +298,21 @@
         <option value="$PROJECT_DIR$/JavaChara/src/main/java/one/Data_Time.java" />
         <option value="$PROJECT_DIR$/Mybatis/src/main/resources/db.properties" />
         <option value="$PROJECT_DIR$/Mybatis/src/main/resources/useMapper.xml" />
-        <option value="$PROJECT_DIR$/Mybatis/src/main/java/msg/MybatisFirst.java" />
         <option value="$PROJECT_DIR$/Mybatis/src/main/java/po/User.java" />
         <option value="$PROJECT_DIR$/Mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/JavaChara/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/Mybatis/src/main/java/msg/MybatisFirst.java" />
+        <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/service/impl/UserServerImpl.java" />
+        <option value="$PROJECT_DIR$/SpringCloud/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/SpringCloud/src/main/java/EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloud/src/main/java/mybac/EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/spring_eureka_client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_eureka_client/src/main/java/ServiceHiApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_eureka_client/src/main/java/application/ServiceHiApplication.java" />
+        <option value="$PROJECT_DIR$/spring_eureka_client/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -320,17 +323,19 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="x" value="-1" />
+    <option name="y" value="16" />
+    <option name="width" value="1008" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -342,25 +347,51 @@
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_eureka_client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_eureka_client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_eureka_client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -368,60 +399,28 @@
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="msg" type="462c0819:PsiDirectoryNode" />
+              <item name="mybac" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -434,33 +433,33 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534384623376" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534407571868" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\resources\mapper" />
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\resources" />
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\mapper" />
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\dao" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.lgy.demo.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\mapper" />
       <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\dao" />
       <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\entity" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lgy.demo.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\resources\mapper" />
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\resources" />
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\mapper" />
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\dao" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -475,20 +474,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DemoApplicatoin">
-    <configuration name="Data_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.Data_Time" />
-      <module name="JavaChara" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="one.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ServiceHiApplication">
     <configuration name="GenMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generotor.GenMain" />
       <module name="Mybatis_generator" />
@@ -502,9 +488,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_Conn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main_Conn" />
-      <module name="WebMaven_N" />
+    <configuration name="ServiceHiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.ServiceHiApplication" />
+      <module name="spring_eureka_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -538,20 +530,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringCloud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mybac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mybac.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main_Conn" />
-      <item itemvalue="Application.Data_Time" />
       <item itemvalue="Application.GenMain" />
       <item itemvalue="Spring Boot.DemoApplicatoin" />
       <item itemvalue="JUnit.MybatisFirst.findUserByIdTest" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Application.ServiceHiApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ServiceHiApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.DemoApplicatoin" />
         <item itemvalue="JUnit.MybatisFirst.findUserByIdTest" />
         <item itemvalue="Application.GenMain" />
-        <item itemvalue="Application.Main_Conn" />
-        <item itemvalue="Application.Data_Time" />
       </list>
     </recent_temporary>
   </component>
@@ -582,7 +587,8 @@
       <workItem from="1534231759265" duration="8146000" />
       <workItem from="1534293363233" duration="402000" />
       <workItem from="1534293788289" duration="15330000" />
-      <workItem from="1534380974575" duration="3065000" />
+      <workItem from="1534380974575" duration="11818000" />
+      <workItem from="1534402872246" duration="4487000" />
     </task>
     <servers />
   </component>
@@ -607,23 +613,22 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80717000" />
+    <option name="totallyTimeSpent" value="93957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918962" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5008104" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.330076" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -631,7 +636,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026652" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
@@ -656,26 +661,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2038c3c2-b2d2-419b-a994-add9ed12c5f7/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaChara/src/main/java/Java_One.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaChara/src/main/java/one/test_T.java" />
-    <entry file="file://$PROJECT_DIR$/JavaChara/src/main/java/one/Impl_T.java" />
-    <entry file="file://$PROJECT_DIR$/JavaChara/src/main/java/one/InClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
@@ -801,20 +786,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/service/impl/UserServerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/entity/M_User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -840,13 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/controller/Mycontroller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.9.RELEASE/spring-boot-dependencies-1.5.9.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -861,37 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/session/SqlSession.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/dao/TuserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/resources/mapper/TuserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/SqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
-          <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/resources/application.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -903,20 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/useMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/po/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -951,17 +870,120 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/session/SqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/msg/MybatisFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/po/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/useMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/controller/Mycontroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/resources/mapper/TuserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/service/impl/UserServerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/dao/TuserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        <state relative-caret-position="644">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/DemoApplicatoin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="92">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/src/main/java/mybac/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -970,18 +992,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        <state relative-caret-position="299">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/msg/MybatisFirst.java">
+    <entry file="file://$PROJECT_DIR$/spring_eureka_client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        <state relative-caret-position="368">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_eureka_client/src/main/java/application/ServiceHiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_eureka_client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1037,12 +1084,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>SpringBoot</last-edited>
+          <last-edited>SpringCloud</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
