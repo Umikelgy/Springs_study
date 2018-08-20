@@ -6,14 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="eureka_client" />
         <module name="JavaChara" />
         <module name="Mybatis" />
         <module name="Mybatis_generator" />
-        <module name="spring_eureka_client" />
         <module name="SpringBoot" />
-        <module name="SpringCloud" />
+        <module name="springservice" />
         <module name="WebMaven_N" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_eureka_client" target="1.6" />
+      <module name="spring_eureka_client_10_version" target="1.8" />
+      <module name="spring_feign" target="1.6" />
+      <module name="SpringCloud" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
