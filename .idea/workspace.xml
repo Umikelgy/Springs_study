@@ -2,28 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="417ae2ec-31f8-4326-8624-cc81caba4a14" name="Default Changelist" comment="spring_cloud">
-      <change afterPath="$PROJECT_DIR$/eureka_client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_client/src/main/java/start/EurekaClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring.service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring.service/src/main/java/start/EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring.service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring.service/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring.service/src/main/resources/myproperties/hello.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka_client/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringCloud/SpringCloud.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringCloud/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringCloud/src/main/java/mybac/EurekaServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringCloud/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_eureka_client/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_eureka_client/spring_eureka_client.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_eureka_client/src/main/java/application/ServiceHiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_eureka_client/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_client/src/main/java/start/EurekaClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client/src/main/java/start/EurekaClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_client/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_client/target/classes/start/EurekaClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client/target/classes/start/EurekaClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring.service/src/main/resources/myproperties/hello.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/myproperties/hello.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring.service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring.service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring.service/target/classes/start/EurekaServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring.service/target/classes/start/EurekaServerApplication.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -119,17 +106,17 @@
         <counts>
           <entry key="class" value="3" />
           <entry key="iml" value="1" />
-          <entry key="java" value="90" />
+          <entry key="java" value="91" />
           <entry key="kt" value="1" />
           <entry key="md" value="1" />
           <entry key="pom" value="4" />
-          <entry key="properties" value="6" />
+          <entry key="properties" value="7" />
           <entry key="sql" value="3" />
           <entry key="t_user" value="3" />
           <entry key="tld" value="1" />
           <entry key="xml" value="57" />
           <entry key="yaml" value="6" />
-          <entry key="yml" value="20" />
+          <entry key="yml" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -137,33 +124,33 @@
           <entry key="CLASS" value="3" />
           <entry key="Database Element" value="3" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="90" />
+          <entry key="JAVA" value="91" />
           <entry key="Kotlin" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="Properties" value="6" />
+          <entry key="Properties" value="7" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="2" />
           <entry key="XML" value="62" />
-          <entry key="YAML" value="26" />
+          <entry key="YAML" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cell" value="59" />
           <entry key="ft" value="33" />
-          <entry key="java" value="6819" />
+          <entry key="java" value="6876" />
           <entry key="md" value="69" />
           <entry key="properties" value="165" />
           <entry key="sql" value="18" />
           <entry key="txt" value="39" />
           <entry key="xml" value="652" />
           <entry key="yaml" value="98" />
-          <entry key="yml" value="33" />
+          <entry key="yml" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6819" />
+          <entry key="JAVA" value="6876" />
           <entry key="Markdown" value="69" />
           <entry key="PLAIN_TEXT" value="39" />
           <entry key="Properties" value="165" />
@@ -171,7 +158,7 @@
           <entry key="Scratch" value="59" />
           <entry key="VTL" value="33" />
           <entry key="XML" value="649" />
-          <entry key="YAML" value="131" />
+          <entry key="YAML" value="164" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages">
@@ -184,18 +171,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring.service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring.service/src/main/java/start/EurekaServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
+            <state relative-caret-position="226">
               <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -204,11 +182,61 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring.service/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="10" selection-end-column="76" />
+            <state relative-caret-position="345">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/myproperties/hello.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka_client/src/main/java/start/EurekaClientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring.service/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka_client/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka_client/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -240,6 +268,7 @@
       <find>1.3.</find>
       <find>876</find>
       <find>config-server</find>
+      <find>888</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -248,7 +277,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/DemoApplicatoin.java" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/resources/properties.yml" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/resources/properties.yaml" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/Sql_msg.java" />
@@ -291,14 +319,15 @@
         <option value="$PROJECT_DIR$/spring_eureka_client/src/main/java/client/start/EurekaClientApplication.java" />
         <option value="$PROJECT_DIR$/spring_eureka_client/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/spring.service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/eureka_client/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka_client/src/main/java/start/EurekaClientApplication.java" />
-        <option value="$PROJECT_DIR$/eureka_client/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/spring.service/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/spring.service/src/main/resources/myproperties/hello.properties" />
         <option value="$PROJECT_DIR$/spring.service/pom.xml" />
         <option value="$PROJECT_DIR$/spring.service/src/main/java/start/EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/spring.service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka_client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/eureka_client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka_client/src/main/java/start/EurekaClientApplication.java" />
       </list>
     </option>
   </component>
@@ -326,6 +355,49 @@
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
@@ -373,11 +445,28 @@
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="spring.service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="myproperties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mappers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -401,7 +490,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534730872884" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534736520777" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/poggyio-restapi" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -448,7 +537,7 @@
     </option>
     <option name="contentProportion" value="0.16450216" />
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServerApplication (1)">
+  <component name="RunManager" selected="Spring Boot.EurekaClientApplication">
     <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="eureka_client" />
       <extension name="coverage">
@@ -481,8 +570,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
         <item itemvalue="Spring Boot.EurekaClientApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +606,7 @@
       <workItem from="1534402872246" duration="10238000" />
       <workItem from="1534472266423" duration="10097000" />
       <workItem from="1534491760524" duration="2920000" />
-      <workItem from="1534725562271" duration="3937000" />
+      <workItem from="1534725562271" duration="9637000" />
     </task>
     <task id="LOCAL-00001" summary="spring_cloud">
       <created>1534407626484</created>
@@ -550,7 +639,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116662000" />
+    <option name="totallyTimeSpent" value="122362000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -563,7 +652,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918962" visible="true" weight="0.1609808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -573,7 +661,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" sideWeight="0.5008104" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run Dashboard" order="0" weight="0.45059717" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" visible="true" weight="0.45059717" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49733475" weight="0.330076" />
@@ -613,13 +701,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="spring_cloud" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://2038c3c2-b2d2-419b-a994-add9ed12c5f7/schema/mytest/table/t_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yyc/dao/WebsitesMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -831,43 +912,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.service/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eureka_client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka_client/src/main/java/start/EurekaClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring.service/src/main/resources/myproperties/hello.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -878,9 +926,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client/src/main/java/start/EurekaClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring.service/src/main/java/start/EurekaServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="226">
           <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -890,8 +971,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring.service/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="76" />
+        <state relative-caret-position="345">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/myproperties/hello.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>

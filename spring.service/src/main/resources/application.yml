@@ -11,6 +11,6 @@ spring:
       server:
         git:
           uri: https://github.com/Umikelgy/Springs_study.git
-          searchPaths: spring.service/myproperties/
+          searchPaths: WebManven_M/myproperties/
   application:
     name: config-server

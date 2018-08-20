@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@EnableEurekaClient
+
 @RestController
 
 public class EurekaClientApplication {
@@ -25,10 +25,10 @@ public class EurekaClientApplication {
     }
 
     @Value("${server.port}")
-    String port;
-    @RequestMapping("/")
+    String hello;
+    @RequestMapping(value = "/hello")
     public String home() {
-        return "hello world from port " + port;
+        return hello;
     }
 
 }
