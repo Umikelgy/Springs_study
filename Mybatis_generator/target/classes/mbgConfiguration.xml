@@ -33,25 +33,25 @@
         也可以使用“MAVEN”来自动生成，这样生成的代码会在target/generatord-source目录下
         -->
         <!--<javaModelGenerator targetPackage="com.joey.mybaties.test.pojo" targetProject="MAVEN">-->
-        <javaModelGenerator targetPackage="com.lgy.demo.entity" targetProject="D:\mybatis-generator\lgy">
+        <javaModelGenerator targetPackage="${com.entity.targePackage}" targetProject="${com.all.targeProject}">
             <property name="enableSubPackages" value="true"/>
             <!-- 从数据库返回的值被清理前后的空格  -->
             <property name="trimStrings" value="true" />
         </javaModelGenerator>
 
         <!--对应的mapper.xml文件  -->
-        <sqlMapGenerator targetPackage="com.lgy.demo.mapper" targetProject="D:\mybatis-generator\lgy">
+        <sqlMapGenerator targetPackage="${com.mapper.targePackage}" targetProject="${com.all.targeProject}">
             <property name="enableSubPackages" value="true"/>
         </sqlMapGenerator>
 
         <!-- 对应的Mapper接口类文件 -->
-        <javaClientGenerator type="XMLMAPPER" targetPackage="com.lgy.demo.dao" targetProject="D:\mybatis-generator\lgy">
+        <javaClientGenerator type="XMLMAPPER" targetPackage="${com.dao.targePackage}" targetProject="${com.all.targeProject}">
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 
 
         <!-- 列出要生成代码的所有表，这里配置的是不生成Example文件 -->
-        <table tableName="t_user" domainObjectName="Tuser"
+        <table tableName="${db.table}" domainObjectName="${db.table}"
                enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false"
                enableSelectByExample="false" selectByExampleQueryId="false" >
             <property name="id" value="false"/>

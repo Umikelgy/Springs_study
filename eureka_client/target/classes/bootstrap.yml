@@ -1,10 +1,9 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8762
 spring:
   application:
-    name: config-client
-  cloud:
-    config:
-      label: master
-      profile: dev
-      uri: http://localhost:8880/
-server:
-  port: 8882
+    name: service-helloworld

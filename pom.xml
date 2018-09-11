@@ -22,6 +22,7 @@
         <module>Mybatis</module>
         <module>spring.service</module>
         <module>eureka_client</module>
+        <module>annotation</module>
     </modules>
 <dependencies>
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->

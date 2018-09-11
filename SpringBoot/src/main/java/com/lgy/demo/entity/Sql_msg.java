@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
  *@description:
 
  */
-@Component
+//@Component
 @ConfigurationProperties(prefix = "server")
 public class Sql_msg {
     private String port;

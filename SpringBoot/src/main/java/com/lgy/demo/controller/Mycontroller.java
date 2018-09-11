@@ -1,7 +1,6 @@
 package com.lgy.demo.controller;
 
 import com.lgy.demo.entity.M_User;
-import com.lgy.demo.entity.Sql_msg;
 import com.lgy.demo.entity.Tuser;
 import com.lgy.demo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,8 +23,6 @@ public class Mycontroller {
     @Autowired
     private UserService userService;
 
-    @Autowired
-    private Sql_msg sql;
     @ResponseBody
     @RequestMapping(value = "/add/{userId}",produces = {"application/json;charset=UTF-8"})
     public int addUser(Tuser user, @PathVariable("userId")Integer userId) {
