@@ -16,3 +16,13 @@ Maven之间的依赖传递和不同模块之间的类相互调用
 服务提供者
 # SpringCloud
 服务注册
+#SpringBoot
+springboot的测试
+#spring.service
+springCloud的服务配置
+#eureka_client
+客户端（消费者）
+#demo_redis
+测试redis和springboot的整合（mysql）
+#annotation
+自定义注解实现

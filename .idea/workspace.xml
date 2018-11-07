@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="417ae2ec-31f8-4326-8624-cc81caba4a14" name="Default Changelist" comment="spring_cloud">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2038c3c2-b2d2-419b-a994-add9ed12c5f7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2038c3c2-b2d2-419b-a994-add9ed12c5f7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/serviceApi/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/serviceApi/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/serviceImpl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/serviceImpl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/resources/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/application.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/resources/useMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/useMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis/src/test/java/TestMybaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/test/java/TestMybaits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis/target/classes/useMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/target/classes/useMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis_generator/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis_generator/src/main/resources/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis_generator/src/main/resources/mbgConfiguration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis_generator/src/main/resources/mbgConfiguration.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis_generator/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis_generator/target/classes/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis_generator/target/classes/mbgConfiguration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis_generator/target/classes/mbgConfiguration.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/controller/Mycontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/controller/Mycontroller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/target/classes/com/lgy/demo/DemoApplicatoin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/target/classes/com/lgy/demo/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/target/classes/com/lgy/demo/service/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -137,9 +116,9 @@
           <entry key="class" value="28" />
           <entry key="groovy" value="2" />
           <entry key="iml" value="4" />
-          <entry key="java" value="279" />
+          <entry key="java" value="285" />
           <entry key="kt" value="1" />
-          <entry key="md" value="3" />
+          <entry key="md" value="4" />
           <entry key="null/me/col" value="1" />
           <entry key="pom" value="27" />
           <entry key="properties" value="18" />
@@ -148,7 +127,7 @@
           <entry key="tld" value="1" />
           <entry key="xml" value="123" />
           <entry key="yaml" value="20" />
-          <entry key="yml" value="41" />
+          <entry key="yml" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -156,15 +135,15 @@
           <entry key="CLASS" value="28" />
           <entry key="Database Element" value="6" />
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="279" />
+          <entry key="JAVA" value="285" />
           <entry key="Kotlin" value="1" />
           <entry key="MONGO" value="1" />
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="4" />
           <entry key="Properties" value="18" />
           <entry key="SQL" value="3" />
           <entry key="Scratch" value="8" />
           <entry key="XML" value="151" />
-          <entry key="YAML" value="61" />
+          <entry key="YAML" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -172,7 +151,7 @@
           <entry key="cell" value="59" />
           <entry key="ft" value="33" />
           <entry key="java" value="15651" />
-          <entry key="md" value="69" />
+          <entry key="md" value="263" />
           <entry key="properties" value="897" />
           <entry key="sql" value="102" />
           <entry key="txt" value="39" />
@@ -184,7 +163,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="15651" />
-          <entry key="Markdown" value="69" />
+          <entry key="Markdown" value="263" />
           <entry key="PLAIN_TEXT" value="39" />
           <entry key="Properties" value="897" />
           <entry key="SQL" value="22" />
@@ -228,18 +207,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-redis/src/test/java/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/redisConfig/RedisCacheConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
@@ -261,20 +228,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/impl/RedisUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2116">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#546#547#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-redis/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -283,18 +236,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/impl/TUserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+            <state relative-caret-position="614">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="e#742#743#0" expanded="true" />
                 <element signature="e#786#787#0" expanded="true" />
                 <element signature="e#877#878#0" expanded="true" />
                 <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#1032#1033#0" expanded="true" />
                 <element signature="e#1056#1057#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/reflect/FieldDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring.service/src/main/java/start/EurekaServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -351,7 +323,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/mongo/MongoDbDao.java" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/entity/Tuser.java" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/entity/OrderCol.java" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/service/OrderService.java" />
@@ -402,6 +373,7 @@
         <option value="$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/controller/TUserController.java" />
         <option value="$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/impl/TUserServiceImpl.java" />
         <option value="$PROJECT_DIR$/demo-redis/src/test/java/TestMain.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -446,17 +418,161 @@
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto_annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto_annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auto_annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="fruit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="start" type="462c0819:PsiDirectoryNode" />
+              <item name="EurekaServerApplication" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="spring.service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -480,7 +596,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541569750952" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541570243896" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -681,7 +797,7 @@
       <workItem from="1541398892221" duration="6534000" />
       <workItem from="1541406113345" duration="4696000" />
       <workItem from="1541465913813" duration="24728000" />
-      <workItem from="1541551085550" duration="12887000" />
+      <workItem from="1541551085550" duration="13912000" />
     </task>
     <task id="LOCAL-00001" summary="spring_cloud">
       <created>1534407626484</created>
@@ -726,7 +842,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293354000" />
+    <option name="totallyTimeSpent" value="294379000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -739,6 +855,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918962" visible="true" weight="0.1444563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -763,7 +880,7 @@
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4989339" weight="0.32899022" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32899022" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32899022" />
-      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.12920739" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.32899022" />
       <window_info anchor="bottom" id="Dependency Viewer" order="16" weight="0.32356134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -821,67 +938,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebMaven_N/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/maven3.5.4/myrepository/org/springframework/boot/spring-boot-dependencies/1.5.9.RELEASE/spring-boot-dependencies-1.5.9.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2153">
-          <caret line="2780" column="12" selection-start-line="2780" selection-start-column="12" selection-end-line="2780" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-redis/src/main/java/redis/entity/Tuser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-redis/src/main/resources/redis.yml" />
-    <entry file="file://$PROJECT_DIR$/springboot-redis/src/main/java/redis/service/TUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-redis/src/main/java/redis/serviceImpl/TUserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/maven3.5.4/myrepository/org/springframework/boot/spring-boot-starter-data-redis/2.0.3.RELEASE/spring-boot-starter-data-redis-2.0.3.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-redis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-redis/src/main/java/redis/controller/TuserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -1191,17 +1247,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring.service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.service/src/main/java/start/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/controller/OrderColController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/controller/Mycontroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka_client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="621">
+            <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/impl/TUserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="39" column="38" lean-forward="true" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        <state relative-caret-position="614">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="e#742#743#0" expanded="true" />
             <element signature="e#786#787#0" expanded="true" />
             <element signature="e#877#878#0" expanded="true" />
             <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
             <element signature="e#1056#1057#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/reflect/FieldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/reflect/FieldDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
