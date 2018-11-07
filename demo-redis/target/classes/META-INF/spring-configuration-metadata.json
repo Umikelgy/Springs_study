@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "t_user.redisandmysql.redisConfig.RedisCacheConfig$DataJedisProperties",
+      "name": "",
+      "type": "t_user.redisandmysql.redisConfig.RedisCacheConfig$DataJedisProperties"
+    }
+  ],
+  "properties": []
+}
