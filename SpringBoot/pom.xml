@@ -38,7 +38,7 @@
             <artifactId>mybatis-spring-boot-starter</artifactId>
             <version>${mybatis-spring-boot.version}</version>
         </dependency>
-        <!--识别properties.yml文件-->
+        <!--识别application.yml文件-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-configuration-processor</artifactId>

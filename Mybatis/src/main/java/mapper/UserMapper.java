@@ -1,5 +1,9 @@
 package mapper;
 
+import po.User;
+
+import java.util.List;
+
 /*
  *@description:
  *
@@ -7,4 +11,6 @@ package mapper;
  *@date 2018/10/8 14:14
  */
 public interface UserMapper {
+ User findUserById(int n);
+ List<User> queryAll();
 }

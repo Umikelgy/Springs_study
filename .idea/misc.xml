@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/spring_eureka_client/pom.xml" />
         <option value="$PROJECT_DIR$/spring_eureka_client_1.0_version/pom.xml" />
         <option value="$PROJECT_DIR$/spring_feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
       </set>
     </option>
   </component>
