@@ -24,7 +24,7 @@
         <module>eureka_client</module>
         <module>annotation</module>
         <module>demo-redis</module>
-        <module>springboot-redis</module>
+        <module>rabbitmq</module>
     </modules>
 <dependencies>
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->

@@ -13,8 +13,9 @@
         <module name="JavaChara" />
         <module name="Mybatis" />
         <module name="Mybatis_generator" />
+        <module name="rabbitmq" />
+        <module name="spring.ervice" />
         <module name="SpringBoot" />
-        <module name="springservice" />
         <module name="WebMaven_N" />
       </profile>
     </annotationProcessing>

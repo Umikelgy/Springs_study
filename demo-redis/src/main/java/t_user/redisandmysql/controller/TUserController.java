@@ -4,7 +4,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import sun.net.www.protocol.http.HttpURLConnection;
 import t_user.redisandmysql.api.TUserService;
 import t_user.redisandmysql.impl.RedisUtil;
 import t_user.redisandmysql.impl.TUserServiceImpl;
