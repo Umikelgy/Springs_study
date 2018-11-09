@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="417ae2ec-31f8-4326-8624-cc81caba4a14" name="Default Changelist" comment="spring_cloud">
-      <change afterPath="$PROJECT_DIR$/Mybatis_generator/src/main/java/generotor/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/ConnectionUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/WorkRecv2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/WorkSend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/RabbitApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/configuration/RabbitMaTopicConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/configuration/RabbitMqConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/controller/SendController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/receiver/Receiver1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/receiver/TopicReceiver1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/receiver/TopicReceiver2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/DemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/controller/TUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/controller/TUserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-redis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-redis/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="417ae2ec-31f8-4326-8624-cc81caba4a14" name="Default Changelist" comment="spring_cloud" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/WebMaven_N/target/" />
@@ -98,25 +75,6 @@
     </expand>
     <select />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/resources/mbgConfiguration.xml">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="69">
-                    <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetDialog">
     <checked>
       <node key="2038c3c2-b2d2-419b-a994-add9ed12c5f7" />
@@ -159,7 +117,7 @@
           <entry key="dtd" value="3" />
           <entry key="groovy" value="2" />
           <entry key="iml" value="4" />
-          <entry key="java" value="302" />
+          <entry key="java" value="303" />
           <entry key="kt" value="3" />
           <entry key="md" value="5" />
           <entry key="null/me/col" value="1" />
@@ -168,7 +126,7 @@
           <entry key="sql" value="9" />
           <entry key="t_user" value="6" />
           <entry key="tld" value="1" />
-          <entry key="xml" value="129" />
+          <entry key="xml" value="130" />
           <entry key="yaml" value="20" />
           <entry key="yml" value="45" />
         </counts>
@@ -179,14 +137,14 @@
           <entry key="DTD" value="3" />
           <entry key="Database Element" value="6" />
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="302" />
+          <entry key="JAVA" value="303" />
           <entry key="Kotlin" value="3" />
           <entry key="MONGO" value="1" />
           <entry key="Markdown" value="5" />
           <entry key="Properties" value="19" />
           <entry key="SQL" value="3" />
           <entry key="Scratch" value="8" />
-          <entry key="XML" value="157" />
+          <entry key="XML" value="158" />
           <entry key="YAML" value="65" />
         </counts>
       </usages-collector>
@@ -194,7 +152,7 @@
         <counts>
           <entry key="cell" value="59" />
           <entry key="ft" value="33" />
-          <entry key="java" value="19457" />
+          <entry key="java" value="19469" />
           <entry key="kt" value="61" />
           <entry key="md" value="267" />
           <entry key="properties" value="897" />
@@ -207,7 +165,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19457" />
+          <entry key="JAVA" value="19469" />
           <entry key="Kotlin" value="61" />
           <entry key="Markdown" value="267" />
           <entry key="PLAIN_TEXT" value="39" />
@@ -238,15 +196,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/java/generotor/Configuration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/receiver/TopicReceiver1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
@@ -259,23 +208,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/configuration/RabbitMqConfig.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/resources/mbgConfiguration.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="506">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/WorkSend.java">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/configuration/RabbitMqConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="299">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -295,7 +241,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/java/generotor/GenMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
@@ -303,6 +249,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/serviceApi/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -383,7 +338,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Mybatis/src/test/java/TestMybaits.java" />
         <option value="$PROJECT_DIR$/Mybatis/src/main/resources/application.xml" />
         <option value="$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/DemoApplicatoin.java" />
         <option value="$PROJECT_DIR$/SpringBoot/pom.xml" />
@@ -434,6 +388,7 @@
         <option value="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/ConnectionUtil.java" />
         <option value="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/WorkRecv2.java" />
         <option value="$PROJECT_DIR$/Mybatis_generator/src/main/java/generotor/Configuration.java" />
+        <option value="$PROJECT_DIR$/Mybatis/src/main/java/serviceApi/UserService.java" />
       </list>
     </option>
   </component>
@@ -488,6 +443,41 @@
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
               <item name="demo-redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="serviceApi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
@@ -574,7 +564,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541750712678" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541751543018" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaALL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -785,7 +775,7 @@
       <workItem from="1541465913813" duration="24728000" />
       <workItem from="1541551085550" duration="24289000" />
       <workItem from="1541637989751" duration="22363000" />
-      <workItem from="1541724936571" duration="14516000" />
+      <workItem from="1541724936571" duration="15489000" />
     </task>
     <task id="LOCAL-00001" summary="spring_cloud">
       <created>1534407626484</created>
@@ -830,7 +820,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="341635000" />
+    <option name="totallyTimeSpent" value="342608000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -843,7 +833,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837133" visible="true" weight="0.1444563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -926,11 +915,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/test/java/TestMybaits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/api/TUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -1277,6 +1261,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea2018.2/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/java/generotor/GenMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -1287,17 +1278,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.IntelliJIdea2018.2/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd">
+    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/serviceApi/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        <state relative-caret-position="207">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/resources/mbgConfiguration.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        <state relative-caret-position="506">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
