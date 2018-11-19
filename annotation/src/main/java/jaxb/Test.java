@@ -19,7 +19,7 @@ import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 
 /*
- *@descripion:
+ *@description:
  *测试生成xml的测试类
  *@author 10068921(LgyTT)
  *@date 2018/8/21 15:45

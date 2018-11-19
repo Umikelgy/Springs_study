@@ -51,23 +51,15 @@
 
     </bean>
     <!--Mybatis-->
-    <!--<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">-->
-        <!--<property name="dataSource" ref="dataSource"/>-->
-        <!--<property name="mapperLocations" value="classpath*:/*Mapper.xml"/>-->
-    <!--</bean>-->
-    <!--<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">-->
-        <!--&lt;!&ndash;<property name="basePackage" value="mapper"/>&ndash;&gt;-->
-        <!--<property name="basePackage" value="mapper"/>-->
-        <!--<property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>-->
-    <!--</bean>-->
-
-    <bean id="mysqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
         <property name="dataSource" ref="dataSource"/>
         <property name="mapperLocations" value="classpath*:/*Mapper.xml"/>
     </bean>
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <!--<property name="basePackage" value="mapper"/>-->
         <property name="basePackage" value="mapper"/>
-        <property name="sqlSessionFactoryBeanName" value="mysqlSessionFactory"/>
+        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>
     </bean>
+
     <bean id="userServiceImpl" class="serviceImpl.UserServiceImpl"/>
 </beans>
