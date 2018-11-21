@@ -11,7 +11,8 @@ import auto_annotation.set_annotation.fruit.FruitInfoUtil;
  */
 public class TestAnnotatino {
     public static void main(String []args){
-
-        FruitInfoUtil.getFruitInfo(Apple.class);
+            Apple apple=new Apple();
+        apple=FruitInfoUtil.getFruitInfo(apple.getClass());
+        System.out.println("appleName is "+apple.getAppleName());
     }
 }
