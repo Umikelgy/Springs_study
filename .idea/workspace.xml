@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="417ae2ec-31f8-4326-8624-cc81caba4a14" name="Default Changelist" comment="spring_cloud">
-      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/model/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/AnnoApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/Anno_Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/FruitInitMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/Publish_Subscribe/EmitLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/Publish_Subscribe/ReceiverLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/onePmoreC/NewStask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/onePmoreC/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/routing/EmitLogDirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/routing/ReceiveLogsDirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/EmitLogTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/ReceivTopic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/TestAnnotatino.java" beforeDir="false" afterPath="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/TestAnnotatino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/FruitInfoUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/FruitInfoUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation/target/classes/auto_annotation/TestAnnotatino.class" beforeDir="false" afterPath="$PROJECT_DIR$/annotation/target/classes/auto_annotation/TestAnnotatino.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation/target/classes/auto_annotation/set_annotation/fruit/FruitInfoUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/annotation/target/classes/auto_annotation/set_annotation/fruit/FruitInfoUtil.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,7 +97,7 @@
     <session id="1185654627">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="54" />
+          <entry key="project.closed" value="55" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="11" />
           <entry key="project.open.time.10" value="1" />
@@ -110,7 +110,7 @@
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.38" value="1" />
@@ -121,16 +121,16 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="56" />
+          <entry key="project.opened" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="46" />
+          <entry key="class" value="52" />
           <entry key="dtd" value="3" />
           <entry key="groovy" value="2" />
           <entry key="iml" value="4" />
-          <entry key="java" value="358" />
+          <entry key="java" value="374" />
           <entry key="kt" value="3" />
           <entry key="md" value="7" />
           <entry key="null/me/col" value="1" />
@@ -139,25 +139,25 @@
           <entry key="sql" value="9" />
           <entry key="t_user" value="6" />
           <entry key="tld" value="1" />
-          <entry key="xml" value="143" />
+          <entry key="xml" value="146" />
           <entry key="yaml" value="21" />
           <entry key="yml" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="46" />
+          <entry key="CLASS" value="52" />
           <entry key="DTD" value="3" />
           <entry key="Database Element" value="6" />
           <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="358" />
+          <entry key="JAVA" value="374" />
           <entry key="Kotlin" value="3" />
           <entry key="MONGO" value="1" />
           <entry key="Markdown" value="7" />
           <entry key="Properties" value="25" />
           <entry key="SQL" value="3" />
           <entry key="Scratch" value="8" />
-          <entry key="XML" value="173" />
+          <entry key="XML" value="176" />
           <entry key="YAML" value="67" />
         </counts>
       </usages-collector>
@@ -165,7 +165,7 @@
         <counts>
           <entry key="cell" value="59" />
           <entry key="ft" value="33" />
-          <entry key="java" value="24258" />
+          <entry key="java" value="27417" />
           <entry key="kt" value="61" />
           <entry key="md" value="267" />
           <entry key="properties" value="928" />
@@ -178,7 +178,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24258" />
+          <entry key="JAVA" value="27417" />
           <entry key="Kotlin" value="61" />
           <entry key="Markdown" value="267" />
           <entry key="PLAIN_TEXT" value="39" />
@@ -203,64 +203,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/FruitName.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="17" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/AnnoApple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/Anno_Util.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+            <state relative-caret-position="483">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-redis/src/test/java/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/FruitInitMain.java">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/EmitLogTopic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="321">
+              <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/FruitInfoUtil.java">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/ReceivTopic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="30" column="40" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="40" />
+            <state relative-caret-position="161">
+              <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -317,14 +290,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo-redis/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springboot-redis/src/main/java/redis/configuraion/RedisConfiguration.java" />
-        <option value="$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/redisConfig/RedisUtil.java" />
-        <option value="$PROJECT_DIR$/demo-redis/pom.xml" />
-        <option value="$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/redisConfig/RedisService.java" />
-        <option value="$PROJECT_DIR$/demo-redis/src/main/resources/mapper/TUserMapper.xml" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2038c3c2-b2d2-419b-a994-add9ed12c5f7/console_1.sql" />
-        <option value="$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/RedisApplication.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2038c3c2-b2d2-419b-a994-add9ed12c5f7/console.sql" />
         <option value="$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/api/TUserService.java" />
         <option value="$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/impl/RedisService.java" />
@@ -368,6 +333,14 @@
         <option value="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/AnnoApple.java" />
         <option value="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/Anno_Util.java" />
         <option value="$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/FruitInitMain.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/onePmoreC/NewStask.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/onePmoreC/Work.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/Publish_Subscribe/ReceiverLogs.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/Publish_Subscribe/EmitLog.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/routing/EmitLogDirect.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/routing/ReceiveLogsDirect.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/EmitLogTopic.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/ReceivTopic.java" />
       </list>
     </option>
   </component>
@@ -409,6 +382,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -419,105 +393,25 @@
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="auto_annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="auto_annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="auto_annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="fruit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="auto_annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="fruit" type="462c0819:PsiDirectoryNode" />
-              <item name="fruitTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jaxb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -525,62 +419,27 @@
             <path>
               <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebMaven_M" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebMaven_M" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -596,27 +455,25 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542779985309" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542872461215" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/ImportExcel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\Mybatis\src\main\java" />
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\demo-redis\src\main\resources" />
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\eureka_client\src\main\resources" />
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\spring.service\src\main\resources" />
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\src\main\resources" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="auto_annotation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\mapper" />
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\dao" />
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\entity" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="rabbitmq.demo" />
@@ -625,10 +482,12 @@
       <recent name="com.lgy.demo.entity" />
       <recent name="jaxb.shorp" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\mapper" />
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\dao" />
-      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\SpringBoot\src\main\java\com\lgy\demo\entity" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\Mybatis\src\main\java" />
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\demo-redis\src\main\resources" />
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\eureka_client\src\main\resources" />
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\spring.service\src\main\resources" />
+      <recent name="C:\Users\10068921\IdeaProjects\WebMaven_M\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -649,13 +508,13 @@
     </option>
     <option name="contentProportion" value="0.16450216" />
   </component>
-  <component name="RunManager" selected="Application.FruitInitMain">
-    <configuration name="FruitInitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="auto_annotation.set_annotation.fruit.fruitTest.FruitInitMain" />
-      <module name="annotation" />
+  <component name="RunManager" selected="Application.EmitLogTopic">
+    <configuration name="EmitLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rabbitmq.demo.Publish_Subscribe.EmitLog" />
+      <module name="rabbitmq" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auto_annotation.set_annotation.fruit.fruitTest.*" />
+          <option name="PATTERN" value="rabbitmq.demo.Publish_Subscribe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -663,12 +522,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAnnotatino" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="auto_annotation.TestAnnotatino" />
-      <module name="annotation" />
+    <configuration name="EmitLogDirect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rabbitmq.demo.routing.EmitLogDirect" />
+      <module name="rabbitmq" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auto_annotation.*" />
+          <option name="PATTERN" value="rabbitmq.demo.routing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -676,50 +535,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Apple.testAnnotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="annotation" />
+    <configuration name="EmitLogTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rabbitmq.demo.topic.EmitLogTopic" />
+      <module name="rabbitmq" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auto_annotation.set_annotation.fruit.fruitTest.*" />
+          <option name="PATTERN" value="rabbitmq.demo.topic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="auto_annotation.set_annotation.fruit" />
-      <option name="MAIN_CLASS_NAME" value="auto_annotation.set_annotation.fruit.Apple" />
-      <option name="METHOD_NAME" value="testAnnotation" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Model.TestClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Mybatis_generator" />
+    <configuration name="ReceivTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rabbitmq.demo.topic.ReceivTopic" />
+      <module name="rabbitmq" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generotor.*" />
+          <option name="PATTERN" value="rabbitmq.demo.topic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="generotor" />
-      <option name="MAIN_CLASS_NAME" value="generotor.Model" />
-      <option name="METHOD_NAME" value="TestClass" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpdateJdbc.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Mybatis_generator" />
+    <configuration name="ReceiveLogsDirect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rabbitmq.demo.routing.ReceiveLogsDirect" />
+      <module name="rabbitmq" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generotor.*" />
+          <option name="PATTERN" value="rabbitmq.demo.routing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="generotor" />
-      <option name="MAIN_CLASS_NAME" value="generotor.UpdateJdbc" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -741,19 +591,19 @@
     <list>
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.EurekaClientApplication" />
-      <item itemvalue="JUnit.Model.TestClass" />
-      <item itemvalue="JUnit.UpdateJdbc.Test" />
-      <item itemvalue="JUnit.Apple.testAnnotation" />
-      <item itemvalue="Application.TestAnnotatino" />
-      <item itemvalue="Application.FruitInitMain" />
+      <item itemvalue="Application.EmitLog" />
+      <item itemvalue="Application.EmitLogDirect" />
+      <item itemvalue="Application.ReceiveLogsDirect" />
+      <item itemvalue="Application.ReceivTopic" />
+      <item itemvalue="Application.EmitLogTopic" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FruitInitMain" />
-        <item itemvalue="Application.TestAnnotatino" />
-        <item itemvalue="JUnit.Apple.testAnnotation" />
-        <item itemvalue="JUnit.UpdateJdbc.Test" />
-        <item itemvalue="JUnit.Model.TestClass" />
+        <item itemvalue="Application.EmitLogTopic" />
+        <item itemvalue="Application.ReceivTopic" />
+        <item itemvalue="Application.EmitLogDirect" />
+        <item itemvalue="Application.ReceiveLogsDirect" />
+        <item itemvalue="Application.EmitLog" />
       </list>
     </recent_temporary>
   </component>
@@ -822,7 +672,8 @@
       <workItem from="1542350526974" duration="5793000" />
       <workItem from="1542588111873" duration="14118000" />
       <workItem from="1542674494066" duration="10556000" />
-      <workItem from="1542762441881" duration="8963000" />
+      <workItem from="1542762441881" duration="14339000" />
+      <workItem from="1542847974001" duration="15806000" />
     </task>
     <task id="LOCAL-00001" summary="spring_cloud">
       <created>1534407626484</created>
@@ -867,7 +718,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="419177000" />
+    <option name="totallyTimeSpent" value="440359000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -882,19 +733,19 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973545" visible="true" weight="0.16204691" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49550897" visible="true" weight="0.16204691" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.1444563" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5026455" side_tool="true" weight="0.16204691" />
+      <window_info id="Favorites" order="6" sideWeight="0.50449103" side_tool="true" weight="0.16204691" />
       <window_info id="Web" order="7" sideWeight="0.50162864" side_tool="true" weight="0.1444563" />
       <window_info anchor="bottom" id="Run Dashboard" order="0" sideWeight="0.49840087" weight="0.22366993" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49946696" weight="0.32899022" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49733475" weight="0.27470142" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.3843648" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3843648" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32899022" />
@@ -904,7 +755,7 @@
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49733475" weight="0.32899022" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32899022" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.121606946" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.22801302" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.32899022" />
       <window_info anchor="bottom" id="Dependency Viewer" order="16" weight="0.32356134" />
       <window_info anchor="bottom" id="SQL Generator" order="17" weight="0.32899022" />
@@ -932,112 +783,37 @@
     <MESSAGE value="spring_cloud" />
     <option name="LAST_COMMIT_MESSAGE" value="spring_cloud" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/EmitLogTopic.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/ReceivTopic.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/ReceivTopic.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/ReceivTopic.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="620" column="7" lean-forward="true" selection-start-line="620" selection-start-column="7" selection-end-line="621" selection-end-column="15" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/maven3.5.4/myrepository/org/springframework/boot/spring-boot-dependencies/2.0.3.RELEASE/spring-boot-dependencies-2.0.3.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="2405" column="12" selection-start-line="2405" selection-start-column="12" selection-end-line="2405" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/annotation/target/classes/jaxb/shorp/Address.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/resources/mbgConfiguration.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/java/generotor/GenMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven3.5.4/myrepository/org/springframework/amqp/spring-amqp/2.0.4.RELEASE/spring-amqp-2.0.4.RELEASE.jar!/org/springframework/amqp/core/AmqpTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/configuration/RabbitMqConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/WorkSend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven3.5.4/myrepository/org/springframework/amqp/spring-amqp/2.0.4.RELEASE/spring-amqp-2.0.4.RELEASE.jar!/org/springframework/amqp/core/TopicExchange.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/receiver/TopicReceiver1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/springboot/configuration/RabbitMaTopicConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/java/generotor/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Mybatis_generator/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="805">
@@ -1156,13 +932,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/controller/Mycontroller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/maven3.5.4/myrepository/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE.jar!/org/springframework/core/annotation/AliasFor.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -1202,11 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="710">
           <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
-          <folding>
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1242,16 +1006,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/FruitName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="17" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/FruitColor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3">
@@ -1273,13 +1027,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-redis/src/test/java/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-redis/src/main/java/t_user/redisandmysql/impl/RedisUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1297,10 +1044,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/Anno_Util.java">
+    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/FruitName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        <state relative-caret-position="276">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1309,18 +1056,171 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/AnnoApple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="299">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-redis/src/test/java/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/FruitInitMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringBoot/src/main/java/com/lgy/demo/controller/Mycontroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mybatis_generator/src/main/resources/mbgConfiguration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Connection_sql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven3.5.4/myrepository/com/rabbitmq/amqp-client/4.8.0/amqp-client-4.8.0.jar!/com/rabbitmq/client/Channel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven3.5.4/myrepository/org/springframework/amqp/spring-rabbit/2.0.4.RELEASE/spring-rabbit-2.0.4.RELEASE.jar!/org/springframework/amqp/rabbit/support/PublisherCallbackChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="128" column="50" selection-start-line="128" selection-start-column="50" selection-end-line="128" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/Publish_Subscribe/ReceiverLogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/Publish_Subscribe/EmitLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="29" selection-start-line="29" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/onePmoreC/Work.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/onePmoreC/NewStask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/jaxb/shorp/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/routing/ReceiveLogsDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/routing/EmitLogDirect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation/src/main/java/auto_annotation/set_annotation/fruit/fruitTest/Anno_Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven3.5.4/myrepository/com/rabbitmq/amqp-client/4.8.0/amqp-client-4.8.0.jar!/com/rabbitmq/client/BuiltinExchangeType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/ReceivTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/rabbitmq/demo/topic/EmitLogTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
