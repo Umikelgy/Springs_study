@@ -25,6 +25,7 @@
         <module>annotation</module>
         <module>demo-redis</module>
         <module>rabbitmq</module>
+        <module>logg4j2</module>
     </modules>
 <dependencies>
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->

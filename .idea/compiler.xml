@@ -11,6 +11,7 @@
         <module name="demo-redis" />
         <module name="eureka_client" />
         <module name="JavaChara" />
+        <module name="logg4j2" />
         <module name="Mybatis" />
         <module name="Mybatis_generator" />
         <module name="rabbitmq" />
